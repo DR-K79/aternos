@@ -1,0 +1,2 @@
+# aternos
+AFK_BOT
